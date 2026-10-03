@@ -61,4 +61,3 @@ Este projeto propõe uma arquitetura escalável de ponta a ponta:
 - Python instalado.
 - Arduino IDE e configurado.
 - Acesso ou credenciais a uma instância do HiveMQ Broker.
-
